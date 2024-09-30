@@ -1,7 +1,3 @@
-Great! Here's an updated `README.md` that includes a mention of the `LICENSE` file:
-
----
-
 # AI Voice Chat
 
 This repository contains an AI-powered voice chatbot built using OpenAI's APIs and Streamlit. The app allows users to record voice inputs, which are transcribed, processed by OpenAI's GPT-3.5 Turbo model, and responded to in both text and audio formats.
