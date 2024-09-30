@@ -107,7 +107,3 @@ For any questions or support, please reach out:
 
 - GitHub: [shivangmedhekar](https://github.com/shivangmedhekar)
 - Email: shivangmedhekar@gmail.com
-
----
-
-This `README.md` now includes a reference to the `LICENSE` file and covers everything needed to use the repository effectively!
